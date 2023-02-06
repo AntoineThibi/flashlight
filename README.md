@@ -1,17 +1,12 @@
-<p align="center" style="background-color: black; padding: 20px; borderRadius: 10px;">
-  <img src="./website/static/img/logo.svg" alt="Flashlight" width="50%" ><br />
-  <span style="margin-top: 10px; color: #fff500cc; opacity: 0.95; font-size: 20px">
-  Get a performance score for your app 🔦
-  </span>
+<p align="center">
+  <img src="./website/static/img/logo-black.svg" alt="Flashlight" width="50%" ><br />
 </p>
 
-# Measure the performance of any Android app
+# Measure the performance of any Android app 🔦
 
-Flashlight 🔦 generates a performance score for your app, aggregating different metrics.
+Flashlight generates a performance score for your app, aggregating different metrics.
 
 > **Full documentation** can be found at [docs.flashlight.dev](https://docs.flashlight.dev)
-
-## Why Flashlight
 
 - 🙅 No need to install anything in your app
 - 🚀 Measure performance on **production** apps

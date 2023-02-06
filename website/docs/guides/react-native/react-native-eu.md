@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Measure and improve performance
 
-In this talk, we see how to 
+Below is a video of a React Native EU talk where we see how to
 - use Flashlight to measure the startup performance of a dummy app with lots of performance issues
 - use different analysis tools to debunk the issues and fix them:
   - React DevTools
